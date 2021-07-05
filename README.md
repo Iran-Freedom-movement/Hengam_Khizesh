@@ -104,14 +104,14 @@ ul
 
 <p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
 rtl;unicode-bidi:embed'><b><span lang=FA style='font-size:14.0pt;line-height:
-115%;font-family:"2  Titr"'>نمونه دستوراعمل مل&#1740; هماهنگ&#1740;
+115%;font-family:"2  Titr";color:red'>نمونه دستوراعمل مل&#1740; هماهنگ&#1740;
 ن&#1740;روها&#1740; مردم&#1740; در خ&#1740;زش مل&#1740; عل&#1740;ه جمهور&#1740;
 اجامر اسلام&#1740;</span></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><b><span lang=FA style='font-size:16.0pt;line-height:115%;font-family:
-"B Nazanin"'>هدف</span></b><span lang=FA style='font-size:12.0pt;line-height:
-115%;font-family:"B Nazanin"'>:</span></p>
+embed'><b><span lang=FA style='font-size:18.0pt;line-height:115%;font-family:
+"B Nazanin";color:blue'>هدف</span></b><span lang=FA style='font-size:12.0pt;
+line-height:115%;font-family:"B Nazanin"'>:</span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'>حفظ
@@ -137,7 +137,7 @@ embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Tit
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><b><span lang=FA style='font-size:16.0pt;line-height:115%;font-family:
-"B Nazanin"'>تعار&#1740;ف</span></b></p>
+"B Nazanin";color:blue'>تعار&#1740;ف</span></b></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'>ن&#1740;روها&#1740;
@@ -163,20 +163,23 @@ embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Tit
 ارزش ها&#1740; غ&#1740;ر مل&#1740; </span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'>(ق.خ):
-فعال&#1740;ت ها&#1740; قبل ازخ&#1740;زش مل&#1740;</span></p>
+embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr";
+color:blue'>(ق.خ): فعال&#1740;ت ها&#1740; قبل ازخ&#1740;زش مل&#1740;</span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'>(ح.خ)
-: فعال&#1740;ت ها&#1740; ح&#1740;ن خ&#1740;زش مل&#1740; </span></p>
+embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr";
+background:yellow'>(ح.خ) : فعال&#1740;ت ها&#1740; ح&#1740;ن خ&#1740;زش مل&#1740;</span><span
+lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'> </span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'> (س.ن):
-فعال&#1740;ت ها&#1740; بعد از پا&#1740;&#1740;ن کش&#1740;دن جمهور&#1740; اجامر</span></p>
+embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr";
+color:red'> (س.ن): فعال&#1740;ت ها&#1740; بعد از پا&#1740;&#1740;ن کش&#1740;دن
+جمهور&#1740; اجامر</span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
-embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr"'>(ت.د.م):
-فعال&#1740;ت ها&#1740;  تا تشک&#1740;ل دولت موقت م&#1740; باشد</span></p>
+embed'><span lang=FA style='font-size:9.0pt;line-height:115%;font-family:"2  Titr";
+background:green'>(ت.د.م): فعال&#1740;ت ها&#1740;  تا تشک&#1740;ل دولت موقت
+م&#1740; باشد</span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
 embed'><b><span lang=FA style='font-size:16.0pt;line-height:115%;font-family:
